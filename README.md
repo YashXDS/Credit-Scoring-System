@@ -107,28 +107,6 @@ Email: yapatel9023@gmail.com
 - **Usage**: Explains how to use the app and what input fields to provide.
 - **Model Details**: Information about the machine learning model and features used.
 - **Deployment**: Simple instructions on running the app.
-- **Contact**: Information for reaching out if users have questions.
-
-
-
-
-
-
-You said:
-create this again ├── app.py # Streamlit app code ├── best_model_random_forest.pkl # Pre-trained model ├── scaler.pkl # Pre-trained scaler ├── model_1.ipynb # Jupyter Notebook for training and evaluating the model ├── README.md # Project documentation └── requirements.txt # Python dependencies
-ChatGPT said:
-ChatGPT
-Here is the formatted project structure for your README.md:
-
-bash
-Copy code
-├── app.py                   # Streamlit app code
-├── best_model_random_forest.pkl  # Pre-trained model
-├── scaler.pkl               # Pre-trained scaler
-├── model_1.ipynb            # Jupyter Notebook for training and evaluating the model
-├── README.md                # Project documentation
-└── requirements.txt         # Python dependencies
-You can paste this directly into your README.md under the "Project Structure" section!
 
 
 
